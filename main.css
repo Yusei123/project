@@ -1,0 +1,24 @@
+  body 
+
+
+a {color:blue;text-decoration:none;}
+a:hover{text-decreation:underline; color:yellow;}
+a:active {background:red; color:black;}
+    
+    .nav{width:200px;float:left;margin-right: 20px;}
+{
+   padding:10px; margin-bottom: 1px; margin-left: 1px; margin-right: 1px;margin-top: 1px;
+}
+    .content{float:left;}
+    .clear {float: none; clear: both;}
+    nav h1 {
+  width: 300px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+}
+
+        h1 {color: black;}
+        h2 {color: black;}
+        h3 {color:black;}
+        p {color: black;}
